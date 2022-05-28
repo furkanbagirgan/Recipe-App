@@ -1,8 +1,7 @@
 # Recipe App
 
 Recipe app is an online food recipe app.
-In this application, users can share their recipes in detail, if they want, they can save and evaluate other shared recipes.
-This application was made using flutter and dart and the data was stored in firebase.
+In this application, users can share their recipes in detail, if they want, they can save and evaluate other shared recipes. This application was made using flutter and dart and the data was stored in firebase.
 The firebase services used are:
 -Firebase Authentication
 -Firebase Firestore
