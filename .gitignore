@@ -10,7 +10,6 @@
 .svn/
 pubspec.lock
 .metadata
-/images/
 # IntelliJ related
 *.iml
 *.ipr
